@@ -1,0 +1,179 @@
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.exe
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.deps.json
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.runtimeconfig.json
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.pdb
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Form1.resources
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Properties.Resources.resources
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.GenerateResource.cache
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfoInputs.cache
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfo.cs
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\refint\Pharmacy project.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.pdb
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.genruntimeconfig.cache
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\ref\Pharmacy project.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.AssemblyReference.cache
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.CopyComplete
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.administrator.resources
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_Dashborad.resources
+C:\Users\Laptop Solutions\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_AddUser.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.exe
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.deps.json
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.runtimeconfig.json
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.pdb
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Management.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.AssemblyReference.cache
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.administrator.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_AddUser.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_Dashborad.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Form1.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Properties.Resources.resources
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.GenerateResource.cache
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.GeneratedMSBuildEditorConfig.editorconfig
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfoInputs.cache
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfo.cs
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.CoreCompileInputs.cache
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy.C50B7EB4.Up2Date
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\refint\Pharmacy project.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.pdb
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.genruntimeconfig.cache
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\ref\Pharmacy project.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Storage.Connection.GetConnectionString.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4th Semester\DataBase by DD\source\repos\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\refint\Pharmacy project.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.pdb
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.AssemblyReference.cache
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.administrator.resources
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_AddUser.resources
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.AdministratorUC.UC_Dashborad.resources
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Form1.resources
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy_project.Properties.Resources.resources
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.GenerateResource.cache
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.GeneratedMSBuildEditorConfig.editorconfig
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfoInputs.cache
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.AssemblyInfo.cs
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.CoreCompileInputs.cache
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.exe
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.deps.json
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.runtimeconfig.json
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Pharmacy project.pdb
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Azure.Storage.Connection.GetConnectionString.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Management.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.csproj.CopyComplete
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\Pharmacy project.genruntimeconfig.cache
+D:\pharmacy project\Pharmacy project\Pharmacy project\obj\Debug\net8.0-windows\ref\Pharmacy project.dll
